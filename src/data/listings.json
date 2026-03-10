@@ -1,0 +1,992 @@
+{
+  "listings": [
+    {
+      "id": "listing-1",
+      "title": "Flanders Heat & Air Systems",
+      "slug": "flanders-heat-air-systems",
+      "description": "Professional heating and air conditioning services with expert technicians and quality equipment.",
+      "category": {
+        "id": "cat-1",
+        "name": "Restaurant",
+        "slug": "restaurants",
+        "icon": "glass"
+      },
+      "location": {
+        "address": "123 Main St",
+        "city": "Los Angeles",
+        "state": "United States",
+        "zip": "90001",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "price": "$55.00",
+      "priceType": "hourly",
+      "rating": 5,
+      "reviews": 124,
+      "image": "/images/sl1.jpg",
+      "images": [
+        "/images/sl1.jpg",
+        "/images/sl2.jpg",
+        "/images/sl3.jpg"
+      ],
+      "featured": true,
+      "popular": false,
+      "new": false,
+      "verified": true,
+      "status": "open",
+      "author": {
+        "id": "user-1",
+        "name": "John Smith",
+        "avatar": "/images/author-thumb1.jpg",
+        "verified": true
+      },
+      "amenities": [
+        "WiFi",
+        "Coffee",
+        "Meeting Rooms",
+        "Parking",
+        "24/7 Access"
+      ],
+      "hours": {
+        "monday": {
+          "open": "08:00",
+          "close": "20:00"
+        },
+        "tuesday": {
+          "open": "08:00",
+          "close": "20:00"
+        },
+        "wednesday": {
+          "open": "08:00",
+          "close": "20:00"
+        },
+        "thursday": {
+          "open": "08:00",
+          "close": "20:00"
+        },
+        "friday": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "saturday": "closed",
+        "sunday": "closed"
+      },
+      "contact": {
+        "phone": "(415) 796-3633",
+        "email": "info@flanders.com",
+        "website": "https://flanders.com"
+      },
+      "createdAt": "2024-01-15T10:00:00Z",
+      "updatedAt": "2024-01-20T14:30:00Z"
+    },
+    {
+      "id": "listing-2",
+      "title": "Sydney Restaurant Towers",
+      "slug": "sydney-restaurant-towers",
+      "description": "Fine dining restaurant with panoramic city views and exquisite cuisine from around the world.",
+      "category": {
+        "id": "cat-2",
+        "name": "Places +2",
+        "slug": "places-destination",
+        "icon": "bank"
+      },
+      "location": {
+        "address": "456 Oak Ave",
+        "city": "Los Angeles",
+        "state": "United States",
+        "zip": "90001",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "price": "$$$$",
+      "priceType": "daily",
+      "rating": 4.5,
+      "reviews": 89,
+      "image": "/images/sl2.jpg",
+      "images": [
+        "/images/sl2.jpg",
+        "/images/sl3.jpg",
+        "/images/sl4.jpg"
+      ],
+      "featured": false,
+      "popular": true,
+      "new": false,
+      "verified": true,
+      "status": "closed",
+      "author": {
+        "id": "user-2",
+        "name": "Maria Rossi",
+        "avatar": "/images/author-thumb2.jpg",
+        "verified": true
+      },
+      "amenities": [
+        "Outdoor Seating",
+        "Wine Selection",
+        "Private Dining",
+        "Catering"
+      ],
+      "hours": {
+        "monday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "11:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "saturday": {
+          "open": "11:00",
+          "close": "23:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "21:00"
+        }
+      },
+      "contact": {
+        "phone": "(415) 796-3633",
+        "email": "info@sydney.com",
+        "website": "https://sydney.com"
+      },
+      "createdAt": "2024-01-10T09:00:00Z",
+      "updatedAt": "2024-01-18T16:20:00Z"
+    },
+    {
+      "id": "listing-3",
+      "title": "Kung Food & Drinks",
+      "slug": "kung-food-drinks",
+      "description": "Authentic Asian cuisine with modern presentation and exceptional flavors from across the continent.",
+      "category": {
+        "id": "cat-3",
+        "name": "Shopping",
+        "slug": "shopping-store",
+        "icon": "money"
+      },
+      "location": {
+        "address": "789 Broadway",
+        "city": "Los Angeles",
+        "state": "United States",
+        "zip": "90001",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "price": "$$$$",
+      "priceType": "daily",
+      "rating": 3.5,
+      "reviews": 89,
+      "image": "/images/sl3.jpg",
+      "images": [
+        "/images/sl3.jpg",
+        "/images/sl4.jpg",
+        "/images/sl5.jpg"
+      ],
+      "featured": false,
+      "popular": false,
+      "new": true,
+      "verified": true,
+      "status": "closed",
+      "author": {
+        "id": "user-3",
+        "name": "David Chen",
+        "avatar": "/images/auth1.png",
+        "verified": true
+      },
+      "amenities": [
+        "Spa",
+        "Pool",
+        "Restaurant",
+        "Bar",
+        "Room Service",
+        "Gym"
+      ],
+      "hours": {
+        "monday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "tuesday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "wednesday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "thursday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "friday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "saturday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "sunday": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "contact": {
+        "phone": "(415) 796-3633",
+        "email": "info@kung.com",
+        "website": "https://kung.com"
+      },
+      "createdAt": "2024-01-05T08:00:00Z",
+      "updatedAt": "2024-01-15T10:45:00Z"
+    },
+    {
+      "id": "listing-4",
+      "title": "Favorite Place Fog Bank",
+      "slug": "favorite-place-fog-bank",
+      "description": "Cozy restaurant with warm atmosphere and delicious comfort food perfect for any occasion.",
+      "category": {
+        "id": "cat-4",
+        "name": "Art & History",
+        "slug": "art-history",
+        "icon": "line-chart"
+      },
+      "location": {
+        "address": "321 5th Avenue",
+        "city": "Los Angeles",
+        "state": "United States",
+        "zip": "90001",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "price": "$$$$",
+      "priceType": "monthly",
+      "rating": 2.5,
+      "reviews": 178,
+      "image": "/images/sl4.jpg",
+      "images": [
+        "/images/sl4.jpg",
+        "/images/sl5.jpg",
+        "/images/sl6.jpg"
+      ],
+      "featured": true,
+      "popular": true,
+      "new": false,
+      "verified": false,
+      "status": "open",
+      "author": {
+        "id": "user-4",
+        "name": "Sarah Johnson",
+        "avatar": "/images/auth2.png",
+        "verified": false
+      },
+      "amenities": [
+        "Personal Training",
+        "Group Classes",
+        "Showers",
+        "Lockers",
+        "Sauna"
+      ],
+      "hours": {
+        "monday": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "tuesday": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "06:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "06:00",
+          "close": "20:00"
+        },
+        "saturday": {
+          "open": "08:00",
+          "close": "18:00"
+        },
+        "sunday": {
+          "open": "08:00",
+          "close": "16:00"
+        }
+      },
+      "contact": {
+        "phone": "+1-555-456-7890",
+        "email": "hello@powerfit.com",
+        "website": "https://powerfit.com"
+      },
+      "createdAt": "2024-01-12T11:00:00Z",
+      "updatedAt": "2024-01-19T09:15:00Z"
+    },
+    {
+      "id": "listing-5",
+      "title": "Flanders Heat & Air Systems",
+      "slug": "flanders-heat-air-systems-2",
+      "description": "Professional heating and air conditioning services with expert technicians and quality equipment.",
+      "category": {
+        "id": "cat-5",
+        "name": "Hotel & Travel",
+        "slug": "hotel-travel",
+        "icon": "bed"
+      },
+      "location": {
+        "address": "555 Madison Ave",
+        "city": "Los Angeles",
+        "state": "United States",
+        "zip": "90001",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "price": "$55.00",
+      "priceType": "hourly",
+      "rating": 1.5,
+      "reviews": 92,
+      "image": "/images/sl5.jpg",
+      "images": [
+        "/images/sl5.jpg",
+        "/images/sl6.jpg",
+        "/images/sl7.jpg"
+      ],
+      "featured": false,
+      "popular": false,
+      "new": false,
+      "verified": true,
+      "status": "closed",
+      "author": {
+        "id": "user-5",
+        "name": "Emily Brown",
+        "avatar": "/images/auth3.png",
+        "verified": true
+      },
+      "amenities": [
+        "WiFi",
+        "Outdoor Seating",
+        "Pastries",
+        "Vegan Options"
+      ],
+      "hours": {
+        "monday": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "tuesday": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "wednesday": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "thursday": {
+          "open": "07:00",
+          "close": "19:00"
+        },
+        "friday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "saturday": {
+          "open": "08:00",
+          "close": "20:00"
+        },
+        "sunday": {
+          "open": "08:00",
+          "close": "18:00"
+        }
+      },
+      "contact": {
+        "phone": "(415) 796-3633",
+        "email": "info@flanders.com",
+        "website": "https://flanders.com"
+      },
+      "createdAt": "2024-01-08T07:30:00Z",
+      "updatedAt": "2024-01-17T12:00:00Z"
+    },
+    {
+      "id": "listing-6",
+      "title": "Store Clothing Shopping Mall",
+      "slug": "store-clothing-shopping-mall",
+      "description": "Modern shopping mall with a wide variety of clothing stores and retail outlets.",
+      "category": {
+        "id": "cat-6",
+        "name": "Food & Drink +2",
+        "slug": "food-drink",
+        "icon": "cutlery"
+      },
+      "location": {
+        "address": "888 Chelsea",
+        "city": "Los Angeles",
+        "state": "United States",
+        "zip": "90001",
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "price": "$$$$",
+      "priceType": "hourly",
+      "rating": 0.5,
+      "reviews": 67,
+      "image": "/images/sl6.jpg",
+      "images": [
+        "/images/sl6.jpg",
+        "/images/sl7.jpg",
+        "/images/sl8.jpg"
+      ],
+      "featured": false,
+      "popular": false,
+      "new": false,
+      "verified": true,
+      "status": "open",
+      "author": {
+        "id": "user-6",
+        "name": "Michael Lee",
+        "avatar": "/images/auth4.png",
+        "verified": true
+      },
+      "amenities": [
+        "Free Entry",
+        "Guided Tours",
+        "Gift Shop",
+        "Wheelchair Access"
+      ],
+      "hours": {
+        "monday": "closed",
+        "tuesday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "17:00"
+        }
+      },
+      "contact": {
+        "phone": "(415) 796-3633",
+        "email": "info@store.com",
+        "website": "https://store.com"
+      },
+      "createdAt": "2024-01-03T10:00:00Z",
+      "updatedAt": "2024-01-14T15:30:00Z"
+    },
+    {
+      "id": "listing-19",
+      "title": "Downtown Coffee House",
+      "slug": "downtown-coffee-house",
+      "description": "Artisan coffee and fresh pastries in a cozy downtown location with free WiFi.",
+      "category": {
+        "id": "cat-1",
+        "name": "Restaurant",
+        "slug": "restaurants",
+        "icon": "glass"
+      },
+      "location": {
+        "address": "789 Coffee St",
+        "city": "Seattle",
+        "state": "United States",
+        "zip": "98101",
+        "lat": 47.6062,
+        "lng": -122.3321
+      },
+      "price": "$$",
+      "priceType": "hourly",
+      "rating": 5,
+      "reviews": 89,
+      "image": "/images/sl1.jpg",
+      "images": [
+        "/images/sl1.jpg",
+        "/images/sl2.jpg"
+      ],
+      "featured": false,
+      "popular": true,
+      "new": false,
+      "verified": true,
+      "status": "open",
+      "author": {
+        "id": "user-1",
+        "name": "Sarah Johnson",
+        "avatar": "/images/author-thumb1.jpg",
+        "verified": true
+      },
+      "amenities": [
+        "WiFi",
+        "Outdoor Seating",
+        "Coffee"
+      ],
+      "hours": {
+        "monday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "tuesday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "wednesday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "thursday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "friday": {
+          "open": "07:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "08:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "08:00",
+          "close": "20:00"
+        }
+      },
+      "contact": {
+        "phone": "(206) 555-0123",
+        "email": "info@coffeehouse.com",
+        "website": "https://coffeehouse.com"
+      },
+      "createdAt": "2024-01-18T10:00:00Z",
+      "updatedAt": "2024-01-20T14:30:00Z"
+    },
+    {
+      "id": "listing-20",
+      "title": "Grand Hotel Plaza",
+      "slug": "grand-hotel-plaza",
+      "description": "Luxury hotel with spa, pool, and fine dining restaurant. Perfect for business and leisure.",
+      "category": {
+        "id": "cat-5",
+        "name": "Hotel & Travel",
+        "slug": "hotel-travel",
+        "icon": "bed"
+      },
+      "location": {
+        "address": "100 Grand Ave",
+        "city": "Miami",
+        "state": "United States",
+        "zip": "33101",
+        "lat": 25.7617,
+        "lng": -80.1918
+      },
+      "price": "$299.00",
+      "priceType": "daily",
+      "rating": 4.5,
+      "reviews": 245,
+      "image": "/images/sl2.jpg",
+      "images": [
+        "/images/sl2.jpg",
+        "/images/sl3.jpg"
+      ],
+      "featured": true,
+      "popular": false,
+      "new": false,
+      "verified": true,
+      "status": "open",
+      "author": {
+        "id": "user-2",
+        "name": "Michael Chen",
+        "avatar": "/images/author-thumb2.jpg",
+        "verified": true
+      },
+      "amenities": [
+        "Pool",
+        "Spa",
+        "Restaurant",
+        "Bar",
+        "Gym"
+      ],
+      "hours": {
+        "monday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "tuesday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "wednesday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "thursday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "friday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "saturday": {
+          "open": "00:00",
+          "close": "23:59"
+        },
+        "sunday": {
+          "open": "00:00",
+          "close": "23:59"
+        }
+      },
+      "contact": {
+        "phone": "(305) 555-0199",
+        "email": "reservations@grandhotel.com",
+        "website": "https://grandhotel.com"
+      },
+      "createdAt": "2024-01-19T10:00:00Z",
+      "updatedAt": "2024-01-21T14:30:00Z"
+    },
+    {
+      "id": "listing-21",
+      "title": "Tech Gadgets Store",
+      "slug": "tech-gadgets-store",
+      "description": "Latest electronics, smartphones, laptops, and accessories at competitive prices.",
+      "category": {
+        "id": "cat-3",
+        "name": "Shopping",
+        "slug": "shopping-store",
+        "icon": "money"
+      },
+      "location": {
+        "address": "456 Tech Blvd",
+        "city": "San Francisco",
+        "state": "United States",
+        "zip": "94102",
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "price": "$$$",
+      "priceType": "hourly",
+      "rating": 3.5,
+      "reviews": 167,
+      "image": "/images/sl3.jpg",
+      "images": [
+        "/images/sl3.jpg",
+        "/images/sl4.jpg"
+      ],
+      "featured": false,
+      "popular": false,
+      "new": true,
+      "verified": true,
+      "status": "open",
+      "author": {
+        "id": "user-1",
+        "name": "Alex Tech",
+        "avatar": "/images/author-thumb1.jpg",
+        "verified": true
+      },
+      "amenities": [
+        "Returns",
+        "Warranty",
+        "Tech Support"
+      ],
+      "hours": {
+        "monday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "tuesday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "wednesday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "thursday": {
+          "open": "09:00",
+          "close": "21:00"
+        },
+        "friday": {
+          "open": "09:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "22:00"
+        },
+        "sunday": {
+          "open": "10:00",
+          "close": "20:00"
+        }
+      },
+      "contact": {
+        "phone": "(415) 555-0177",
+        "email": "info@techgadgets.com",
+        "website": "https://techgadgets.com"
+      },
+      "createdAt": "2024-01-20T10:00:00Z",
+      "updatedAt": "2024-01-22T14:30:00Z"
+    },
+    {
+      "id": "listing-22",
+      "title": "Art Gallery Downtown",
+      "slug": "art-gallery-downtown",
+      "description": "Contemporary art gallery featuring local and international artists. Monthly exhibitions.",
+      "category": {
+        "id": "cat-4",
+        "name": "Art & History",
+        "slug": "art-history",
+        "icon": "bank"
+      },
+      "location": {
+        "address": "321 Art Street",
+        "city": "New York",
+        "state": "United States",
+        "zip": "10001",
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "price": "Free",
+      "priceType": "hourly",
+      "rating": 2.5,
+      "reviews": 78,
+      "image": "/images/sl4.jpg",
+      "images": [
+        "/images/sl4.jpg",
+        "/images/sl5.jpg"
+      ],
+      "featured": false,
+      "popular": false,
+      "new": false,
+      "verified": true,
+      "status": "open",
+      "author": {
+        "id": "user-2",
+        "name": "Emma Wilson",
+        "avatar": "/images/author-thumb2.jpg",
+        "verified": true
+      },
+      "amenities": [
+        "Guided Tours",
+        "Gift Shop",
+        "Parking"
+      ],
+      "hours": {
+        "monday": "closed",
+        "tuesday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "wednesday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "thursday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "friday": {
+          "open": "10:00",
+          "close": "20:00"
+        },
+        "saturday": {
+          "open": "10:00",
+          "close": "18:00"
+        },
+        "sunday": {
+          "open": "12:00",
+          "close": "17:00"
+        }
+      },
+      "contact": {
+        "phone": "(212) 555-0188",
+        "email": "info@artgallery.com",
+        "website": "https://artgallery.com"
+      },
+      "createdAt": "2024-01-21T10:00:00Z",
+      "updatedAt": "2024-01-23T14:30:00Z"
+    },
+    {
+      "id": "listing-23",
+      "title": "Fitness Pro Gym",
+      "slug": "fitness-pro-gym",
+      "description": "State-of-the-art gym with personal trainers, group classes, and modern equipment.",
+      "category": {
+        "id": "cat-2",
+        "name": "Places +2",
+        "slug": "places-destination",
+        "icon": "line-chart"
+      },
+      "location": {
+        "address": "555 Fitness Way",
+        "city": "Chicago",
+        "state": "United States",
+        "zip": "60601",
+        "lat": 41.8781,
+        "lng": -87.6298
+      },
+      "price": "$49.00",
+      "priceType": "monthly",
+      "rating": 1.5,
+      "reviews": 312,
+      "image": "/images/sl5.jpg",
+      "images": [
+        "/images/sl5.jpg",
+        "/images/sl6.jpg"
+      ],
+      "featured": true,
+      "popular": true,
+      "new": false,
+      "verified": true,
+      "status": "open",
+      "author": {
+        "id": "user-1",
+        "name": "David Fitness",
+        "avatar": "/images/author-thumb1.jpg",
+        "verified": true
+      },
+      "amenities": [
+        "Showers",
+        "Lockers",
+        "Classes",
+        "Personal Training"
+      ],
+      "hours": {
+        "monday": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "tuesday": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "wednesday": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "thursday": {
+          "open": "05:00",
+          "close": "23:00"
+        },
+        "friday": {
+          "open": "05:00",
+          "close": "22:00"
+        },
+        "saturday": {
+          "open": "07:00",
+          "close": "20:00"
+        },
+        "sunday": {
+          "open": "07:00",
+          "close": "20:00"
+        }
+      },
+      "contact": {
+        "phone": "(312) 555-0166",
+        "email": "info@fitnesspro.com",
+        "website": "https://fitnesspro.com"
+      },
+      "createdAt": "2024-01-22T10:00:00Z",
+      "updatedAt": "2024-01-24T14:30:00Z"
+    },
+    {
+      "id": "listing-24",
+      "title": "Italian Trattoria",
+      "slug": "italian-trattoria",
+      "description": "Authentic Italian cuisine with fresh pasta, wood-fired pizza, and an extensive wine list.",
+      "category": {
+        "id": "cat-6",
+        "name": "Food & Drink +2",
+        "slug": "food-drink",
+        "icon": "cutlery"
+      },
+      "location": {
+        "address": "890 Italian Way",
+        "city": "Boston",
+        "state": "United States",
+        "zip": "02101",
+        "lat": 42.3601,
+        "lng": -71.0589
+      },
+      "price": "$65.00",
+      "priceType": "hourly",
+      "rating": 0.5,
+      "reviews": 278,
+      "image": "/images/sl6.jpg",
+      "images": [
+        "/images/sl6.jpg",
+        "/images/sl7.jpg"
+      ],
+      "featured": false,
+      "popular": true,
+      "new": true,
+      "verified": true,
+      "status": "open",
+      "author": {
+        "id": "user-2",
+        "name": "Giovanni Rossi",
+        "avatar": "/images/author-thumb2.jpg",
+        "verified": true
+      },
+      "amenities": [
+        "Wine Bar",
+        "Outdoor Seating",
+        "Reservations"
+      ],
+      "hours": {
+        "monday": "closed",
+        "tuesday": {
+          "open": "17:00",
+          "close": "22:00"
+        },
+        "wednesday": {
+          "open": "17:00",
+          "close": "22:00"
+        },
+        "thursday": {
+          "open": "17:00",
+          "close": "22:00"
+        },
+        "friday": {
+          "open": "17:00",
+          "close": "23:00"
+        },
+        "saturday": {
+          "open": "17:00",
+          "close": "23:00"
+        },
+        "sunday": {
+          "open": "17:00",
+          "close": "21:00"
+        }
+      },
+      "contact": {
+        "phone": "(617) 555-0145",
+        "email": "info@trattoria.com",
+        "website": "https://trattoria.com"
+      },
+      "createdAt": "2024-01-23T10:00:00Z",
+      "updatedAt": "2024-01-25T14:30:00Z"
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "locations": [
+    {
+      "id": "loc-1",
+      "name": "London",
+      "slug": "london",
+      "city": "London",
+      "state": "England",
+      "country": "UK",
+      "image": "/images/place1.jpg",
+      "count": 1,
+      "featured": false
+    },
+    {
+      "id": "loc-2",
+      "name": "UK",
+      "slug": "uk",
+      "city": "UK",
+      "state": "",
+      "country": "UK",
+      "image": "/images/place2.png",
+      "count": 2,
+      "featured": false
+    },
+    {
+      "id": "loc-3",
+      "name": "Portsmouth",
+      "slug": "portsmouth",
+      "city": "Portsmouth",
+      "state": "England",
+      "country": "UK",
+      "image": "/images/place3.png",
+      "count": 1,
+      "featured": false
+    },
+    {
+      "id": "loc-4",
+      "name": "Los Angels",
+      "slug": "los-angels",
+      "city": "Los Angeles",
+      "state": "CA",
+      "country": "USA",
+      "image": "/images/place4.png",
+      "count": 0,
+      "featured": false
+    },
+    {
+      "id": "loc-5",
+      "name": "CA",
+      "slug": "ca",
+      "city": "California",
+      "state": "CA",
+      "country": "USA",
+      "image": "/images/place1.jpg",
+      "count": 0,
+      "featured": false
+    },
+    {
+      "id": "loc-6",
+      "name": "USA",
+      "slug": "usa",
+      "city": "United States",
+      "state": "",
+      "country": "USA",
+      "image": "/images/place2.png",
+      "count": 1,
+      "featured": false
+    },
+    {
+      "id": "loc-7",
+      "name": "Sydney",
+      "slug": "sydney",
+      "city": "Sydney",
+      "state": "NSW",
+      "country": "Australia",
+      "image": "/images/place3.png",
+      "count": 17,
+      "featured": false
+    },
+    {
+      "id": "loc-8",
+      "name": "Durban",
+      "slug": "durban",
+      "city": "Durban",
+      "state": "KZN",
+      "country": "South Africa",
+      "image": "/images/place4.png",
+      "count": 11,
+      "featured": false
+    },
+    {
+      "id": "loc-9",
+      "name": "Perth",
+      "slug": "perth",
+      "city": "Perth",
+      "state": "WA",
+      "country": "Australia",
+      "image": "/images/place1.jpg",
+      "count": 13,
+      "featured": false
+    },
+    {
+      "id": "loc-10",
+      "name": "Newyork",
+      "slug": "newyork",
+      "city": "New York",
+      "state": "NY",
+      "country": "USA",
+      "image": "/images/place2.png",
+      "count": 21,
+      "featured": false
+    },
+    {
+      "id": "loc-11",
+      "name": "Bangkok",
+      "slug": "bangkok",
+      "city": "Bangkok",
+      "state": "",
+      "country": "Thailand",
+      "image": "/images/place3.png",
+      "count": 17,
+      "featured": false
+    },
+    {
+      "id": "loc-12",
+      "name": "Australia",
+      "slug": "australia",
+      "city": "Australia",
+      "state": "",
+      "country": "Australia",
+      "image": "/images/place4.png",
+      "count": 15,
+      "featured": false
+    },
+    {
+      "id": "loc-13",
+      "name": "Calgary",
+      "slug": "calgary",
+      "city": "Calgary",
+      "state": "AB",
+      "country": "Canada",
+      "image": "/images/place1.jpg",
+      "count": 45,
+      "featured": false
+    },
+    {
+      "id": "loc-14",
+      "name": "Mosco",
+      "slug": "mosco",
+      "city": "Moscow",
+      "state": "",
+      "country": "Russia",
+      "image": "/images/place2.png",
+      "count": 35,
+      "featured": false
+    },
+    {
+      "id": "loc-15",
+      "name": "Paris",
+      "slug": "paris",
+      "city": "Paris",
+      "state": "",
+      "country": "France",
+      "image": "/images/place3.png",
+      "count": 23,
+      "featured": false
+    },
+    {
+      "id": "loc-16",
+      "name": "Canada",
+      "slug": "canada",
+      "city": "Canada",
+      "state": "",
+      "country": "Canada",
+      "image": "/images/place4.png",
+      "count": 47,
+      "featured": false
+    },
+    {
+      "id": "loc-17",
+      "name": "Washington",
+      "slug": "washington",
+      "city": "Washington",
+      "state": "DC",
+      "country": "USA",
+      "image": "/images/place1.jpg",
+      "count": 78,
+      "featured": false
+    },
+    {
+      "id": "loc-18",
+      "name": "Neverland",
+      "slug": "neverland",
+      "city": "Neverland",
+      "state": "",
+      "country": "Fantasy",
+      "image": "/images/place2.png",
+      "count": 46,
+      "featured": false
+    },
+    {
+      "id": "loc-19",
+      "name": "Scotland",
+      "slug": "scotland",
+      "city": "Scotland",
+      "state": "",
+      "country": "UK",
+      "image": "/images/place3.png",
+      "count": 53,
+      "featured": false
+    },
+    {
+      "id": "loc-20",
+      "name": "Newzealand",
+      "slug": "newzealand",
+      "city": "New Zealand",
+      "state": "",
+      "country": "New Zealand",
+      "image": "/images/place4.png",
+      "count": 39,
+      "featured": false
+    }
+  ]
+}
+

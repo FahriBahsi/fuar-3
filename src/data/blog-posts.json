@@ -1,0 +1,143 @@
+{
+  "posts": [
+    {
+      "id": "post-1",
+      "title": "How to Run a Successful Business Meeting",
+      "slug": "how-to-run-successful-business-meeting",
+      "excerpt": "Learn the essential strategies for conducting productive and effective business meetings that drive results.",
+      "content": "Running successful business meetings is crucial for organizational productivity...",
+      "image": "/images/b1.jpg",
+      "category": {
+        "id": "cat-1",
+        "name": "Business",
+        "slug": "business"
+      },
+      "author": {
+        "id": "author-1",
+        "name": "John Smith",
+        "avatar": "/images/auth1.png"
+      },
+      "tags": ["Business", "Management", "Productivity"],
+      "publishedAt": "2024-01-20T10:00:00Z",
+      "updatedAt": "2024-01-20T10:00:00Z",
+      "views": 1245,
+      "comments": 8
+    },
+    {
+      "id": "post-2",
+      "title": "Exciting New Technologies in Business Communication",
+      "slug": "exciting-new-technologies-business-communication",
+      "excerpt": "Discover the latest technological innovations transforming how businesses communicate and collaborate.",
+      "content": "The landscape of business communication is evolving rapidly with new technologies...",
+      "image": "/images/b2.jpg",
+      "category": {
+        "id": "cat-2",
+        "name": "Technology",
+        "slug": "technology"
+      },
+      "author": {
+        "id": "author-2",
+        "name": "Maria Garcia",
+        "avatar": "/images/auth2.png"
+      },
+      "tags": ["Technology", "Communication", "Innovation"],
+      "publishedAt": "2024-01-18T14:30:00Z",
+      "updatedAt": "2024-01-18T14:30:00Z",
+      "views": 892,
+      "comments": 5
+    },
+    {
+      "id": "post-3",
+      "title": "Global Automotive Market Grows to $600 Billion",
+      "slug": "global-automotive-market-600-billion",
+      "excerpt": "Analysis of the automotive industry's impressive growth and future projections for the global market.",
+      "content": "The global automotive market has reached unprecedented heights...",
+      "image": "/images/b3.jpg",
+      "category": {
+        "id": "cat-3",
+        "name": "Industry",
+        "slug": "industry"
+      },
+      "author": {
+        "id": "author-1",
+        "name": "John Smith",
+        "avatar": "/images/auth1.png"
+      },
+      "tags": ["Industry", "Automotive", "Market Analysis"],
+      "publishedAt": "2024-01-15T09:00:00Z",
+      "updatedAt": "2024-01-15T09:00:00Z",
+      "views": 2156,
+      "comments": 12
+    },
+    {
+      "id": "post-4",
+      "title": "Direo Adds 25 New Partners in Europe",
+      "slug": "direo-adds-25-new-partners-europe",
+      "excerpt": "Company announcement about strategic expansion into European markets with new partnerships.",
+      "content": "We're excited to announce our expansion into the European market...",
+      "image": "/images/b4.jpg",
+      "category": {
+        "id": "cat-4",
+        "name": "News",
+        "slug": "news"
+      },
+      "author": {
+        "id": "author-3",
+        "name": "David Chen",
+        "avatar": "/images/auth3.png"
+      },
+      "tags": ["News", "Partnership", "Europe", "Expansion"],
+      "publishedAt": "2024-01-12T11:15:00Z",
+      "updatedAt": "2024-01-12T11:15:00Z",
+      "views": 3421,
+      "comments": 23
+    },
+    {
+      "id": "post-5",
+      "title": "Essential Tips for Building a Strong Online Presence",
+      "slug": "essential-tips-building-strong-online-presence",
+      "excerpt": "Learn proven strategies to create and maintain a powerful online presence that attracts customers.",
+      "content": "In today's digital landscape, having a strong online presence is critical for business success...",
+      "image": "/images/b1.jpg",
+      "category": {
+        "id": "cat-1",
+        "name": "Business",
+        "slug": "business"
+      },
+      "author": {
+        "id": "author-2",
+        "name": "Maria Garcia",
+        "avatar": "/images/auth2.png"
+      },
+      "tags": ["Business", "Digital Marketing", "Online Presence"],
+      "publishedAt": "2024-01-10T09:30:00Z",
+      "updatedAt": "2024-01-10T09:30:00Z",
+      "views": 1876,
+      "comments": 15
+    },
+    {
+      "id": "post-6",
+      "title": "The Future of Remote Work and Digital Collaboration",
+      "slug": "future-remote-work-digital-collaboration",
+      "excerpt": "Exploring how remote work technologies are reshaping the way we collaborate and do business.",
+      "content": "Remote work has become the new normal, transforming how teams collaborate across distances...",
+      "image": "/images/b2.jpg",
+      "category": {
+        "id": "cat-2",
+        "name": "Technology",
+        "slug": "technology"
+      },
+      "author": {
+        "id": "author-1",
+        "name": "John Smith",
+        "avatar": "/images/auth1.png"
+      },
+      "tags": ["Technology", "Remote Work", "Collaboration"],
+      "publishedAt": "2024-01-08T14:00:00Z",
+      "updatedAt": "2024-01-08T14:00:00Z",
+      "views": 2543,
+      "comments": 21
+    }
+  ]
+}
+

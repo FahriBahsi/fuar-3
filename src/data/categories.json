@@ -1,0 +1,65 @@
+{
+  "categories": [
+    {
+      "id": "cat-1",
+      "name": "Restaurants",
+      "slug": "restaurants",
+      "description": "Find the best restaurants and dining experiences in your city",
+      "icon": "cutlery",
+      "image": "/images/cat1.jpg",
+      "count": 48,
+      "featured": true
+    },
+    {
+      "id": "cat-2",
+      "name": "Places & Destination",
+      "slug": "places-destination",
+      "description": "Discover amazing places and destinations",
+      "icon": "map-marker",
+      "image": "/images/cat2.jpg",
+      "count": 74,
+      "featured": true
+    },
+    {
+      "id": "cat-3",
+      "name": "Shopping & Store",
+      "slug": "shopping-store",
+      "description": "Browse shops, boutiques, and retail stores",
+      "icon": "shopping-cart",
+      "image": "/images/cat3.jpg",
+      "count": 27,
+      "featured": true
+    },
+    {
+      "id": "cat-4",
+      "name": "Art & History",
+      "slug": "art-history",
+      "description": "Museums, galleries, and historical sites",
+      "icon": "bank",
+      "image": "/images/cat4.jpg",
+      "count": 103,
+      "featured": true
+    },
+    {
+      "id": "cat-5",
+      "name": "Hotel & Travel",
+      "slug": "hotel-travel",
+      "description": "Hotels, accommodations, and travel services",
+      "icon": "bed",
+      "image": "/images/cat5.jpg",
+      "count": 11,
+      "featured": true
+    },
+    {
+      "id": "cat-6",
+      "name": "Food & Drink",
+      "slug": "food-drink",
+      "description": "Food and beverage establishments",
+      "icon": "glass",
+      "image": "/images/cat6.jpg",
+      "count": 29,
+      "featured": true
+    }
+  ]
+}
+
